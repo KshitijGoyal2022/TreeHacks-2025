@@ -37,5 +37,5 @@ In just 36 hours, we built a fully functional, product-grade autonomous robot fr
 ## What we learned  
 This project pushed all of us out of our comfort zones. As a team, we had to learn how to design and build robot parts, write code for a complex system, and put together intricate circuitry—all while staying focused on our ultimate goal of improving lives. Our experience taught us the power of teamwork and how valuable it is to keep learning. We also learned how to improvise and innovate when faced with unexpected challenges.
 
-## What's next for Autonomous Robot  
+## What's next for Russel
 Looking ahead, we plan to expand the robot’s capabilities. We want to integrate more IoT devices, such as smart home systems, to further enhance its utility. Our ultimate goal is to bring this technology into production, helping people with disabilities and elderly individuals lead more independent and fulfilling lives. This project is just the beginning, and we are excited about the potential impact it can have.
